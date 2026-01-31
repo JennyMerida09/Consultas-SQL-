@@ -1,0 +1,6 @@
+empleado_id,nombre,fecha_ingreso,departamento_id,puesto_id
+1,Ana López,2022-01-15,1,1
+2,Carlos Pérez,2021-03-10,1,2
+3,María Gómez,2020-07-01,2,1
+4,Juan Torres,2019-11-20,2,3
+5,Lucía Fernández,2023-02-05,3,1
