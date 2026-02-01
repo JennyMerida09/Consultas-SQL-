@@ -6,7 +6,6 @@ Creamos las tablas `departamentos`, `puestos`, `empleados`, `salarios`, `proyect
 
 ![Imagen](imagen/departamentos.png)
 
-
 ![Imagen](imagen/puestos.png)
 
 En esta tabla se aplica la relación de uno a muchos (1 a N), ya que un `departamento` puede tener muchos empleados y un `puesto` lo pueden tener distintos empleados.
