@@ -14,4 +14,4 @@ Aqui ocurre algo similar pero diferente. Esta tabla aplica la relación de mucho
 ![Imagen](imagen/empleado_proyecto.png)
 
 La tabla salarios tambien tiene una relación de 1 a N, debido a que un `empleado` puede tener dintintos `salarios` a lo largo del tiempo en la empresa.
-![Imagen](imagen/empleado_salarios.png)
+![Imagen](imagen/salarios.png)
