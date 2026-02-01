@@ -10,6 +10,7 @@ Creamos las tablas `departamentos`, `puestos`, `empleados`, `salarios`, `proyect
 ## Tabla puestos
 ![Imagen](imagen/puestos.png)
 
+## Tabla empleados
 En esta tabla se aplica la relación de uno a muchos (1 a N), ya que un `departamento` puede tener muchos empleados y un `puesto` lo pueden tener distintos empleados.
 
 ![Imagen](imagen/empleados.png)
@@ -17,11 +18,12 @@ En esta tabla se aplica la relación de uno a muchos (1 a N), ya que un `departa
 ## Tabla proyectos
 ![Imagen](imagen/proyectos.png)
 
+## Tabla empleado y proyectos
 Aqui ocurre algo similar pero diferente. Esta tabla aplica la relación de muchos a muchos (N a M), esto ocurre porque un `empleado` puede trabajar en varios proyectos y un `proyecto` puede tener varios empleados trabajando en el. 
 
 ![Imagen](imagen/empleado_proyecto.png)
 
-
+## Tabla salarios
 La tabla salarios tambien tiene una relación de 1 a N, debido a que un `empleado` puede tener dintintos `salarios` a lo largo del tiempo en la empresa.
 
 ![Imagen](imagen/salarios.png)
