@@ -8,7 +8,7 @@
 -- -----------------------------
 -- Tabla: departamentos
 -- -----------------------------
-    CREATE TABLE departamentos (
+CREATE TABLE departamentos (
     departamento_id INTEGER PRIMARY KEY AUTOINCREMENT,
     nombre TEXT NOT NULL
 );
@@ -64,4 +64,5 @@ CREATE TABLE salarios (
     fecha_inicio DATE,
     FOREIGN KEY (empleado_id) REFERENCES empleados(empleado_id)
 );
+
 
