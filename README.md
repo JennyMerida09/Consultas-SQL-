@@ -1,5 +1,16 @@
-# Consultas-SQL-
-Consultas realizadas en SQLite, creación de tablas Entidad/Relación.
+# Consultas SQL – Modelado de Base de Datos
+
+Este proyecto tiene como objetivo practicar **modelado de bases de datos relacionales** y **consultas SQL en SQLite**, aplicando conceptos de **Entidad–Relación**, **claves primarias y foráneas**, y distintos tipos de **relaciones (1 a N y N a M)**.
+Se diseñó una base de datos de empleados desde cero, definiendo correctamente las tablas, sus relaciones y restricciones, para luego utilizarla como base de práctica para consultas con `JOIN`, agregaciones y análisis de datos.
+El proyecto simula un entorno real de empresa, incluyendo empleados, departamentos, puestos, proyectos y un historial de salarios.
+
+### Conceptos trabajados
+- Modelado Entidad–Relación
+- Relaciones 1 a N y N a M
+- Claves primarias y foráneas
+- Tablas intermedias
+- Consultas con JOIN
+- Agregaciones (COUNT, SUM, AVG)
 
 ## Creación de tablas Entidad/Relación
 Creamos las tablas `departamentos`, `puestos`, `empleados`, `salarios`, `proyectos` y `empleado_proyecto`. Luego realizamos las relaciones que tienen las tablas entre ellas a través de las Foreign Keys.
